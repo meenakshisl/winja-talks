@@ -1,6 +1,6 @@
-# Talks Presented in 3rd October 2020
+# Winja Talks | 03 October 2020
 
-## Talks & Slides
+## Speaker Presentation Link
 
 * ["You too can DevOps: How to integrate CI/CD in traditional domains" - Dhaval Anjaria](https://github.com/Winja-Events/winja-talks/blob/main/03-Oct-2020/You%20too%20can%20DevOps.pptx)
 * ["Hunting Secrets in Code" - Ayush Priya](https://github.com/Winja-Events/winja-talks/blob/main/03-Oct-2020/Talk%20-%20Secrets%20in%20Code.pptx)
